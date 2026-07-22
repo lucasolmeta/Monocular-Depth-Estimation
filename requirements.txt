@@ -5,3 +5,4 @@ pillow
 requests
 open3d
 torchvision
+plotly
