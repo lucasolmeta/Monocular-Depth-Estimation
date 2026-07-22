@@ -1,0 +1,7 @@
+torch
+transformers
+numpy
+pillow
+requests
+open3d
+torchvision
